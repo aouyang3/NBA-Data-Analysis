@@ -14,9 +14,13 @@ Phase 3 - Slide deck presentation of our results and reasonings
 
 ## Images:
 Visualization1 - Shows the number of finals appearances by team
+![# finals appearances by team](https://github.com/aouyang3/NBA-Data-Analysis/blob/main/Visualization1.png)
 
 Visualization2 - Shows the average attendance over team ELOs (performance scores) split by eastern and western conferences
+![average attendance over team ELOs](https://github.com/aouyang3/NBA-Data-Analysis/blob/main/Visualization2.png)
 
 Visualization3.1 - Shows the average ELO over each season by conference
+![average ELO over each season by conference](https://github.com/aouyang3/NBA-Data-Analysis/blob/main/Visualization3.1.png)
 
 Visualization3.2 - Shows the average wins for teams over time by conference
+![average wins for teams over time by conference](https://github.com/aouyang3/NBA-Data-Analysis/blob/main/Visualization3.2.png)
